@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'corsheaders',
     'actors',
     'movies',
+    'django_extensions',
 ]
 
 MIDDLEWARE = [
